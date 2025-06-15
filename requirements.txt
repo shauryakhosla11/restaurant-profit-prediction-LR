@@ -1,0 +1,5 @@
+#liberary used
+numpy
+matplotlib
+math
+copy
