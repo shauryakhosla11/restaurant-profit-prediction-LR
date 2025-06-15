@@ -19,6 +19,8 @@
 ## 📊 Output
 
 Displays a scatter plot of city population vs. profit, and predicts future profits using linear regression.
+
+
 ![image alt](https://github.com/shauryakhosla11/restaurant-profit-prediction-LR/blob/6e91601f6b1a8b1d4ff9e18a1d8accd7f1598a5b/output.png)
 ---
 
