@@ -2,7 +2,7 @@
 
 # 📈 Restaurant Profit Prediction using Linear Regression
 
-This project uses simple linear regression to predict restaurant profits based on city population.
+#This project uses simple linear regression to predict restaurant profits based on city population.
 
 ## 🔧 Files Included
 
